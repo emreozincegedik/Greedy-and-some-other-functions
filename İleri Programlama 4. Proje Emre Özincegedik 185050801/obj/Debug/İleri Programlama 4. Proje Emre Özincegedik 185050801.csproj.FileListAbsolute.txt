@@ -1,0 +1,7 @@
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\bin\Debug\İleri_Programlama_4.Proje_Emre_Özincegedik_185050801.exe.config
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\bin\Debug\İleri_Programlama_4.Proje_Emre_Özincegedik_185050801.exe
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\bin\Debug\İleri_Programlama_4.Proje_Emre_Özincegedik_185050801.pdb
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\obj\Debug\İleri Programlama 4. Proje Emre Özincegedik 185050801.csprojAssemblyReference.cache
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\obj\Debug\İleri Programlama 4. Proje Emre Özincegedik 185050801.csproj.CoreCompileInputs.cache
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\obj\Debug\İleri_Programlama_4.Proje_Emre_Özincegedik_185050801.exe
+D:\programlama\c#\İleri Programlama 4. Proje Emre Özincegedik 185050801\İleri Programlama 4. Proje Emre Özincegedik 185050801\obj\Debug\İleri_Programlama_4.Proje_Emre_Özincegedik_185050801.pdb
